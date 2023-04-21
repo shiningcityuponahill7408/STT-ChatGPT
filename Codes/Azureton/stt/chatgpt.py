@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "your authorization key must be here"
 
 messages = []
 
