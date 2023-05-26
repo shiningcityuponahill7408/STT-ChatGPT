@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = 
 
 class ChatGPT_part():
   def __init__(self, transcript):
